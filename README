@@ -1,0 +1,8 @@
+lab1, lab2 - Analyze time series of global products via vegetation health index (VHI). VHI is a vegetation index based on visible light reflectance by vegetation, which characterizes the degree of vegetation health. This index is based on a combination of the Vegetation Condition Index (VCI), which describes the degree of vegetation depression and the index of temperature conditions TCI (Temperature Condition Index) that were proposed in 1995 by F. Kogan;
+
+VHI <40 - stressful conditions; VHI> 60 - favorable conditions; VHI <15 - drought, the intensity of which is mean to extreme; VHI <35 - drought, the intensity of which is moderate to extreme. :)
+
+lab3 - Analysis-Individual-household-electric-power-consumption
+Via analysis the information about the main costs of electric energy households collected during 47 months (12.2006 - 11.2010) decide in what situations uisng numpy or pandas is faster and more usefull.
+
+The list of attribute information:  date: date in format dd/mm/yyyy  time: time im format hh:mm:ss  global_active_power: active power consumed household per minute (average) [kW]  global_reactive_power: reactive power consumed household per minute (average) [kW]  voltage: voltage averaged per minute of observation [V]  global_intensity: average current for household [A]  sub_metering_1: set of energy consumers №1 [W-hours active energy], corresponds to the kitchen, which has a dishwasher on microwave (no electric stove, gas is used).  sub_metering_2: set of energy consumers №2 [W-hours of active energy], meets the laundry, which operates a washing machine, dryer, refrigerated and lights on.  sub_metering_3: set of energy consumers №3 [W-hours active energy], corresponds to the boiler and air conditioner.
